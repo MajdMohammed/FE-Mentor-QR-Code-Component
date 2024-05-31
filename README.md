@@ -1,0 +1,1 @@
+# FE-Mentor-QR-Code-Component
